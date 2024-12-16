@@ -12,8 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2",
+    "@apollo/server": "^4.11.2",
     "cors": "^2.8.5",
-    "nodemon": "^3.1.9"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "graphql-subscriptions": "^3.0.0",
+    "graphql-ws": "^5.16.0",
+    "nodemon": "^3.1.9",
+    "pg": "^8.13.1",
+    "sequelize": "^6.37.5",
+    "ws": "^8.18.0"
   }
 }
